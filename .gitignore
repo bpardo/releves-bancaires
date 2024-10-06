@@ -1,0 +1,13 @@
+/__pycache__
+.vscode/
+.idea/
+.env
+
+*.log
+*.xml
+_*.*
+
+/debug
+/releves
+
+

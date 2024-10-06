@@ -5,7 +5,8 @@ Le format Excel est prévu dans le code, non encore terminé.
 
 Il est préférable de créer un environnement Python propre
 
-```python3 -m venv ./.env
+```
+python3 -m venv ./.env
 .\.env\Scripts\activate
 ```
 
